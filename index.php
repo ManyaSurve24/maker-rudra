@@ -1,3 +1,4 @@
+<?php echo 'test';?>
 <?php require 'header.php'?>
 <script>
     $("#mainNav").addClass("navbar-fixed-top");
